@@ -1,0 +1,28 @@
+{
+  "name": "alexaworld-nodeskills",
+  "version": "1.0.0",
+  "description": "Develop node js skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexaWorld/NodeSkills.git"
+  },
+  "keywords": [
+    "alexa",
+    "echo",
+    "alexa",
+    "node",
+    "alexa",
+    "skill",
+    "skillkit"
+  ],
+  "author": "Peter Ullrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexaWorld/NodeSkills/issues"
+  },
+  "homepage": "https://github.com/AlexaWorld/NodeSkills#readme"
+}

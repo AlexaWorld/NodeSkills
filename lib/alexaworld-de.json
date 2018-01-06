@@ -1,0 +1,94 @@
+{
+	"de": {
+		"translation": {
+			"LaunchRequest": [
+				"Hallo. Schön dich wieder zu sehen",
+				"Da bist du ja wieder.",
+				"Hey ich dachte schon du bist ausgezogen.",
+				"Gude!"
+			],
+			"AMAZON_HelpIntent": [
+				"Wenn du diesen genialen skill nicht bedienen kannst, kann ich dir auch nicht helfen."
+			],
+			"AMAZON_HelpIntent_Ask": [
+				"Was kann ich für dich tun?",
+				"Wie kann ich helfen?"
+			],
+			"EndMessage": [
+				"Auf Wiedersehen!",
+				"Danke!",
+				"Bis demnächst!",
+				"Bis zum nächsten Mal!",
+				"Gerne wieder!",
+				"Tschau!",
+				"Ok!",
+				"Bitte sehr!",
+				"Iss mal nen Apfel",
+				"Wenn du wieder kommst, bring mir ein Käsebrot mit.",
+				"Tschüß!",
+				"<say-as interpret-as=\"interjection\">ade</say-as>",
+				"<say-as interpret-as=\"interjection\">alles klar</say-as>",
+				"<say-as interpret-as=\"interjection\">bis bald</say-as>",
+				"<say-as interpret-as=\"interjection\">bis dann</say-as>",
+				"<say-as interpret-as=\"interjection\">macht\"s gut</say-as>",
+				"<say-as interpret-as=\"interjection\">tschö</say-as>"
+			],
+			"TimeOfDay": {
+				"NI": "Nachts",
+				"MO": "Morgens",
+				"AF": "Nachmittags",
+				"EV": "Abends"
+			},
+			"DayOfWeek": {
+				"long": [
+					"Sonntag",
+					"Montag",
+					"Dienstag",
+					"Mittwoch",
+					"Donnerstag",
+					"Freitag",
+					"Samstag"
+				],
+				"short": [
+					"So.",
+					"Mo.",
+					"Di.",
+					"Mi.",
+					"Do.",
+					"Fr.",
+					"Sa."
+				]
+			},
+			"Month": {
+				"long": [
+					"Januar",
+					"Februar",
+					"März",
+					"April",
+					"Mai",
+					"Juni",
+					"Juli",
+					"August",
+					"September",
+					"Oktober",
+					"November",
+					"Dezember"
+				],
+				"short": [
+					"Jan.",
+					"Febr.",
+					"Mrz.",
+					"Apr.",
+					"Mai",
+					"Jun.",
+					"Jul.",
+					"Aug.",
+					"Sept.",
+					"Okt.",
+					"Nov.",
+					"Dez."
+				]
+			}
+		}
+	}
+}
