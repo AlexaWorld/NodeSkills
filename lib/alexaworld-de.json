@@ -7,12 +7,15 @@
 				"Hey ich dachte schon du bist ausgezogen.",
 				"Gude!"
 			],
-			"AMAZON_HelpIntent": [
-				"Wenn du diesen genialen skill nicht bedienen kannst, kann ich dir auch nicht helfen."
-			],
-			"AMAZON_HelpIntent_Ask": [
+			"AMAZON.HelpIntent": [
+				"Wenn du diesen genialen skill nicht bedienen kannst, kann ich dir auch nicht helfen.",
 				"Was kann ich für dich tun?",
 				"Wie kann ich helfen?"
+			],
+			"reprompt": [
+				"Noch was?",
+				"Ääh? Noch da?",
+				"Eingeschlafen oder was?"
 			],
 			"EndMessage": [
 				"Auf Wiedersehen!",
