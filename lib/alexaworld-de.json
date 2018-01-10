@@ -2,11 +2,12 @@
 	"de": {
 		"translation": {
 			"LaunchRequest": [
-				"Hallo. Schön dich wieder zu sehen",
-				"Da bist du ja wieder.",
-				"Hey ich dachte schon du bist ausgezogen.",
-				"<say-as interpret-as=\"interjection\">ach du grüne neune</say-as>",
-				"Gude!"
+				"<say-as interpret-as=\"interjection\">ach du grüne neune.</say-as> Was kann ich für dich tun?",
+				"<say-as interpret-as=\"interjection\">ach du grüne neune.</say-as> Was gibt's?",
+				"<say-as interpret-as=\"interjection\">ach du liebe zeit.</say-as> was sillst du denn?",
+				"<say-as interpret-as=\"interjection\">ach du meine güte.</say-as> was ist los?",
+				"<say-as interpret-as=\"interjection\">wow.</say-as> du schon wieder. womit kann ich dienen?",
+				"<say-as interpret-as=\"interjection\">puh</say-as> was?"
 			],
 			"AMAZON.HelpIntent": [
 				"Wenn du diesen genialen skill nicht bedienen kannst, kann ich dir auch nicht helfen.",
@@ -15,7 +16,7 @@
 			],
 			"Reprompt": [
 				"Noch was?",
-				"Ääh? Noch da?",
+				"<say-as interpret-as=\"interjection\">ähm.</say-as> Noch da?",
 				"Eingeschlafen oder was?"
 			],
 			"EndMessage": [
