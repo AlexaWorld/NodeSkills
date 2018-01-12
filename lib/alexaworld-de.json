@@ -1,6 +1,9 @@
 {
 	"de": {
 		"translation": {
+			"InternalError":[
+				"Die Anfrage konnte leider nicht verarbeitet werden."
+			],
 			"LaunchRequest": [
 				"<say-as interpret-as=\"interjection\">ach du grüne neune.</say-as> Was kann ich für dich tun?",
 				"<say-as interpret-as=\"interjection\">ach du grüne neune.</say-as> Was gibt's?",
