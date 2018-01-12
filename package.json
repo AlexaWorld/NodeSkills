@@ -1,7 +1,7 @@
 {
   "name": "alexaworld-nodeskills",
-  "version": "1.0.26",
-  "description": "Develop node js skills",
+  "version": "1.0.42",
+  "description": "Develop node js alexa skills",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,11 +11,11 @@
     "url": "git+https://github.com/AlexaWorld/NodeSkills.git"
   },
   "keywords": [
+    "amazon",
     "alexa",
     "echo",
-    "alexa",
     "node",
-    "alexa",
+    "nodejs",
     "skill",
     "skillkit"
   ],
@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/AlexaWorld/NodeSkills#readme",
   "dependencies": {
-    "alexaworld-nodejs-common": "^1.0.7",
+    "alexaworld-nodejs-common": "^1.0.8",
+    "alexaworld-responsebuilder": "^1.0.18",
     "i18next": "^10.2.2",
     "i18next-sprintf-postprocessor": "^0.2.2",
     "lodash": "^4.17.4"
