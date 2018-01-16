@@ -3,20 +3,23 @@
 		"translation": {
 			"InternalError":[
 				"Die Anfrage konnte leider nicht verarbeitet werden."
+			],			
+			"PleaseRepeat":[
+				"Das habe ich leider nicht verstanden. Nochmal bitte."
 			],
 			"LaunchRequest": [
 				"<say-as interpret-as=\"interjection\">ach du grüne neune.</say-as> Was kann ich für dich tun?",
 				"<say-as interpret-as=\"interjection\">ach du grüne neune.</say-as> Was gibt's?",
 				"<say-as interpret-as=\"interjection\">ach du liebe zeit.</say-as> was sillst du denn?",
 				"<say-as interpret-as=\"interjection\">ach du meine güte.</say-as> was ist los?",
-				"<say-as interpret-as=\"interjection\">wow.</say-as> du schon wieder. womit kann ich dienen?",
+				"<say-as interpret-as=\"interjection\">wow.</say-as> siehst du heut toll aus. womit kann ich dienen?",
 				"<say-as interpret-as=\"interjection\">was denn?</say-as>",
 				"<say-as interpret-as=\"interjection\">achje</say-as>. Was willst du?",
 				"<say-as interpret-as=\"interjection\">ähm</say-as>. Was nu schon wieder?",
-				"<say-as interpret-as=\"interjection\">ahoi</say-as>",
+				"<say-as interpret-as=\"interjection\">ahoi</say-as>. Was ist?",
 				"<say-as interpret-as=\"interjection\">aloha</say-as>. Ist dir langweilig?",
-				"<say-as interpret-as=\"interjection\">argh</say-as>. Ich hab heute frei!",
-				"<say-as interpret-as=\"interjection\">bonjour</say-as>"
+				"<say-as interpret-as=\"interjection\">argh</say-as>. Ich hab heute frei! Na gut was ist?",
+				"<say-as interpret-as=\"interjection\">bonjour</say-as>. Kann ich dir irgendwie helfen?"
 			],
 			"Reprompt": [
 				"Noch was?",
