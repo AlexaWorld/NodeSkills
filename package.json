@@ -1,6 +1,6 @@
 {
   "name": "alexaworld-nodeskills",
-  "version": "1.0.75",
+  "version": "1.0.78",
   "description": "Develop node js alexa skills",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
   "dependencies": {
     "alexaworld-nodejs-common": "^1.0.14",
     "alexaworld-responsebuilder": "^1.0.28",
-    "i18next": "^10.2.2",
+    "i18next": "^10.3.0",
     "i18next-sprintf-postprocessor": "^0.2.2",
     "lodash": "^4.17.4"
   }
