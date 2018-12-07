@@ -1,6 +1,6 @@
 {
   "name": "alexaworld-nodeskills",
-  "version": "1.0.80",
+  "version": "1.0.82",
   "description": "Develop node js alexa skills",
   "main": "index.js",
   "scripts": {
