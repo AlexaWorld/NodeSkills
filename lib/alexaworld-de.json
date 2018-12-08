@@ -24,11 +24,7 @@
 			"Reprompt": [
 				"Noch was?",
 				"<say-as interpret-as=\"interjection\">ähm.</say-as> Noch da?",
-				"Eingeschlafen oder was?",
-				"<say-as interpret-as=\"interjection\">süßes oder saures.</say-as> Noch was?",
-				"<say-as interpret-as=\"interjection\">aso.</say-as> Noch was?",
-				"<say-as interpret-as=\"interjection\">bumm.</say-as> Noch was?",
-				"<say-as interpret-as=\"interjection\">boing.</say-as> Noch was?"
+				"Eingeschlafen oder was?"
 			],
 			"AMAZON_StopIntent": [
 				"<say-as interpret-as=\"interjection\">ade</say-as>",
